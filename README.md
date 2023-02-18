@@ -31,7 +31,7 @@ You can see in this image the data model used in Power BI after the data was ext
 ![Data model](img/2datamodel.png)
 ## Visualizations 
 The final product is a 3 pages dashboard. The first one tell us a general perspective about the sales performance while other two focus in customers and products.
-You can see the sales dashboard in the below or you can also download the dashboard by clicking **[HERE](https://github.com/subhojitdas859/Sales_Management/blob/main/Tables/Sales_DB.pbix)**.
+You can see the sales dashboard in the below image or you can also download the dashboard by clicking **[HERE](https://github.com/subhojitdas859/Sales_Management/blob/main/Tables/Sales_DB.pbix)**.
 
 [![Sales Overview](img/1dbSales.png)](xx)
 ## Conclusions
