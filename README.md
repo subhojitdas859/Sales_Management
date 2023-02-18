@@ -2,11 +2,12 @@
 ## Skills applied
 *SQL, Data visualization, Data modeling, Data transformation, Data processing, Reporting*
 ## Project overview
-- This project explores different business metrics and how they can be displayed graphically to follow them.
-- I explore the relation between sales, budget, costumers and products.
+- This project explores different business metrics and how they can be displayed graphically.
+- I explored the relation between sales, budget, costumers and products.
 - We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
 - The tools used are **SQL and Power BI.**
 - You can see the raw data in this **[LINK.](https://github.com/subhojitdas859/Sales_Management/tree/main/Tables)**
+
 ## Objectives
 - The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
 - The most important indicators are sales, budget, top customers, and top products.
@@ -30,8 +31,8 @@
 You can see in this image the data model used in Power BI after the data was extracted.
 ![Data model](img/2datamodel.png)
 ## Visualizations 
-The final product is a 3 pages dashboard. The first one tell us a general perspective about the sales performance while other two focus in customers and products.
-You can see the sales dashboard in the below image or you can also download the dashboard by clicking **[HERE](https://github.com/subhojitdas859/Sales_Management/blob/main/Tables/Sales_DB.pbix)**.
+The final product is a 3 page dashboard. The first one tell us a general perspective about the sales performance while other two focus in customers and products.
+You can see the sales dashboard in the below image or you can download the dashboard by clicking **[HERE](https://github.com/subhojitdas859/Sales_Management/blob/main/Tables/Sales_DB.pbix)**
 
 [![Sales Overview](img/1dbSales.png)](https://github.com/subhojitdas859/Sales_Management/tree/main/img)
 ## Conclusions
