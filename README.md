@@ -3,7 +3,7 @@
 *SQL, Data visualization, Data modeling, Data transformation, Data processing, Reporting*
 ## Project overview
 - This project explores different business metrics and how they can be displayed graphically.
-- I explored the relation between sales, budget, costumers and products.
+- I explored the relation between sales, budget, customers and products.
 - We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
 - The tools used are **SQL and Power BI.**
 - You can see the raw data in this **[LINK.](https://github.com/subhojitdas859/Sales_Management/tree/main/Tables)**
